@@ -1,0 +1,9 @@
+__pycache__/
+venv/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+node_modules/
+dist/
