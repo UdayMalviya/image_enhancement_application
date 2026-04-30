@@ -57,19 +57,19 @@ npm install
 Run the React app:
 
 ```powershell
-npm run dev -- --port 5173
+npm run dev -- --port 5174
 ```
 
 Frontend URL:
 
 ```text
-http://127.0.0.1:5173
+http://127.0.0.1:5174
 ```
 
 ## Usage
 
 1. Start the backend on port `8000`.
-2. Start the frontend on port `5173`.
+2. Start the frontend on port `5174`.
 3. Open `http://127.0.0.1:5173`.
 4. Choose an image.
 5. Select an enhancement method.
